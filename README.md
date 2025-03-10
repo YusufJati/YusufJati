@@ -20,23 +20,13 @@ Here are some ideas to get you started:
 
 
 ## About me:
-- 😄 Fun fact: I'm a Java developer before, worked in IBM
+- 😄 Fun fact: I'm a something before, worked in myself
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](taozhi8833998@gmail.com)
-- 💬 Ask me about `Frontend` or `Backend`
+- 📫 How to reach me: [Email](yusufjatikus@gmail.com)
+- 💬 Ask me about `Frontend` or `Backend` or `Machine Learning`
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
-## My stack:
-- 5+ years of experience in React, Node.js, Express.js , async, await
-- 3+ years of experience in Kubernetes
-- 1+ years of experience in Rust
-- 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
-- ❤️ API, RESTful API, GraphQL
-- HTML/CSS, Javascript
-- git, docker, CI/CD
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
-- LocalStorage, SessionStorage, JWT
 
 ## Languages and Tools:
 <div align="left">
@@ -116,7 +106,7 @@ Here are some ideas to get you started:
 [![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/YusufJati/YusufJati/output/github-contribution-grid-snake-dark.svg)
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
