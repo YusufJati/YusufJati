@@ -1,117 +1,102 @@
-<!--
+<h1 align="center">Hi there, I'm Yusuf 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/YusufJati">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Software+Engineer+%40+BSI;Payment+%26+Integration+Developer;Full-Stack+Developer;DevOps+%26+System+Integration" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YusufJati&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
+</p>
 
-<!-- <h1 align="center">Hi, I'm Yusuf 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
-<h3 align="center">Developer </h3>
+---
 
+### 👨‍💻 About Me
 
+- 🏦 Software Engineer at **Bank Syariah Indonesia (BSI)** — building payment & integration systems for enterprise banking
+- 🔗 I work on **host-to-host APIs, system integration, and full-stack development**
+- 🌱 Currently exploring **cloud-native architecture, DevOps automation, and ML fundamentals**
+- 💬 Ask me about **Full-Stack Development**, **Banking System Integration**, or **DevOps**
+- 📫 Reach me: [yusufjatikus@gmail.com](mailto:yusufjatikus@gmail.com)
+- ⚡ Fun fact: I genuinely enjoy connecting with new people — feel free to say hi! 🙂
 
+---
 
-## About me:
-- 😄 Fun fact: I'm a something before, worked in myself
-- 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](yusufjatikus@gmail.com)
-- 💬 Ask me about `Frontend` or `Backend` or `Machine Learning`
+### 🛠️ Tech Stack
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+**Languages**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-## Languages and Tools:
-<div align="left">
- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=golang" height="30" alt="golang logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code>
-  <!--   <img width="12" /> -->
-  <!-- <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code> -->
-  <!-- <img width="12" />
-  <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code>
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Databases**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YusufJati&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=YusufJati&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-
-## My Journey
-<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=taozhi8833998&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=taozhi8833998&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998&theme=onedark" />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufJati&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YusufJati&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
-## Feeding...
-![Snake animation](https://raw.githubusercontent.com/YusufJati/YusufJati/output/github-contribution-grid-snake-dark.svg)
+---
 
-##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
--->
-<!---
-YusufJati/YusufJati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YusufJati&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YusufJati/YusufJati/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<p align="center">
+  <em>Thanks for visiting! Let's build something great together. 🚀</em>
+</p>
