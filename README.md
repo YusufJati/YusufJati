@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏦 Software Engineer at **Bank Syariah Indonesia (BSI)** — building payment & integration systems for enterprise banking
+- 🏦 Software Engineer — building payment & integration systems for enterprise banking
 - 🔗 I work on **host-to-host APIs, system integration, and full-stack development**
 - 🌱 Currently exploring **cloud-native architecture, DevOps automation, and ML fundamentals**
 - 💬 Ask me about **Full-Stack Development**, **Banking System Integration**, or **DevOps**
