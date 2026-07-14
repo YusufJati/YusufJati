@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/YusufJati">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Software+Engineer+%40+BSI;Payment+%26+Integration+Developer;Full-Stack+Developer;DevOps+%26+System+Integration" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Software+Engineer+%40%;Payment+%26+Integration+Developer;Full-Stack+Developer;DevOps+%26+System+Integration" alt="Typing SVG" />
   </a>
 </p>
 
